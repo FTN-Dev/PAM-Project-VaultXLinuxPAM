@@ -28,7 +28,7 @@ A hands-on Privileged Access Management (PAM) lab built on Proxmox, implementing
 
 ## Architecture
 
-![[Untitled Diagram.drawio.png]]
+<img src="architecture-and-flow.png"></img>
 
 ---
 
