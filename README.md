@@ -25,7 +25,7 @@ A hands-on Privileged Access Management (PAM) lab built on Proxmox, implementing
 |VM 2|target-pam-server|192.168.1.120|Target Server (PostgreSQL + SSH)|2 GB|20 GB|
 
 ---
-
+ 
 ## Architecture
 
 <img src="architecture-and-flow.png"></img>
